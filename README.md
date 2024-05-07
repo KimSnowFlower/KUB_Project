@@ -12,3 +12,13 @@
 main.cpp / WindowManager.h / WindowManager.cpp / LoginManager.h / LoginManager.cpp <br>
 
 문제점 : 빌드 후 프로그램이 구동이 안됨. <br> <hr>
+
+<h3>2일차 개발</h3>
+- MySQL 기본 문법 공부
+- 기본적인 사용법을 통해 로그인 구조 바꾸기 공부
+- LoginManager를 원래는 엑셀 파일에서 정보를 가져오지만 MySQL에 내용을 공부하면서 Database 이용으로 바꿀 예정
+
+<h3>수정파일</h3>
+MySQL_TEST\알아두기.cpp / MySQL_TEST\test.cpp
+
+문제점 : mysql 2026 error <br> <hr>
