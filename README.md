@@ -11,4 +11,4 @@
 <h3>수정파일</h3>
 main.cpp / WindowManager.h / WindowManager.cpp / LoginManager.h / LoginManager.cpp <br>
 
-문제점 : 빌드 후 프로그램이 구동이 안됨. <br>
+문제점 : 빌드 후 프로그램이 구동이 안됨. <br> <hr>
